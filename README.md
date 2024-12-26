@@ -20,3 +20,7 @@
 - Login and see if your profile data is coming properly in the store
 - Navbar should update as soon as userlogin
 - Refactor code to add constants file + create a components folder
+
+- Use shuold not access other routes without login
+- If token is not present redirect to login page
+- Logout feature
