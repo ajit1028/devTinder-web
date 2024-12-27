@@ -1,11 +1,11 @@
-# DevTinder
+# DevTinder 👩‍💻
 
 - Create a Vite + React Application
 - Remove unecessary code and create a Hello Wolrd
 - Install Tailwind CSS
 - Install Daisy UI
 - Add navbar components to App.jsx
-- Create a seprate NacBAr.jsx Component File
+- Create a seprate Nvabar.jsx Component File
 - Install react router dom
 - Create BrowserRouter > Routes > Route=/ > Body > RouteChildren
 - Create Outlet in your body Component
