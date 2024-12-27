@@ -26,3 +26,5 @@
 - Logout feature
 - Get the feed and add feed in the store
 - Build the user card on feed
+- Edit Profile
+- Notitify when saved
