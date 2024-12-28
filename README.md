@@ -28,4 +28,4 @@
 - Build the user card on feed
 - Edit Profile Feratures
 - Show Toast message on saving profile
-- Feature Connection Page
+- See all my connections
