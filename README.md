@@ -28,4 +28,5 @@
 - Build the user card on feed
 - Edit Profile Feratures
 - Show Toast message on saving profile
-- See all my connections
+- New Page - See all my connections
+- New Page - See all my connections requests
