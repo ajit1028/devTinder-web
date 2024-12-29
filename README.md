@@ -30,3 +30,4 @@
 - Show Toast message on saving profile
 - New Page - See all my connections
 - New Page - See all my connections requests
+- Accept/Reject Connection request
