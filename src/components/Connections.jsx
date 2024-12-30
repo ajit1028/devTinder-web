@@ -13,7 +13,7 @@ const Connections = () => {
         withCredentials: true,
       });
 
-      console.log(res.data.data);
+      // console.log(res.data.data);
       dispatch(addConnections(res.data.data));
     } catch (error) {
       console.error("Error fetching connections:", error.message);
@@ -26,7 +26,8 @@ const Connections = () => {
 
   if (!connections) return;
 
-  if (connections.length === 0) return <h1>No connection Found</h1>;
+  if (connections.length === 0)
+    return <h1 className="flex justify-center my-10">No Connections Found</h1>;
 
   return (
     <div className=" text-center my-10">
